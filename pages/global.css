@@ -1,0 +1,63 @@
+@import url("https://fonts.googleapis.com/css2?family=M+PLUS+1:wght@400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=M+PLUS+1+Code:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-m-plus-1: "M PLUS 1";
+  --bold-h2: Poppins;
+  --font-m-plus-1-code: "M PLUS 1 Code";
+
+  /* font sizes */
+  --font-size-lg: 18px;
+  --bold-h2-size: 48px;
+  --regular-p-size: 16px;
+  --font-size-5xl: 24px;
+  --font-size-21xl: 40px;
+  --font-size-xs: 12px;
+  --font-size-2xl-7: 21.7px;
+  --font-size-smi: 13px;
+  --font-size-base-2: 15.2px;
+  --font-size-3xl-9: 22.9px;
+  --font-size-sm-7: 13.7px;
+  --font-size-sm: 14px;
+
+  /* Colors */
+  --color-gray-100: #1a1e1c;
+  --color-gray-200: rgba(255, 255, 255, 0.1);
+  --color-darkslategray-100: #3d544d;
+  --color-darkslategray-200: #424242;
+  --color-darkslategray-300: rgba(39, 50, 47, 0.24);
+  --color-darkgray-100: #adb2b1;
+  --color-darkgray-200: #adadad;
+  --color-white: #fff;
+  --color-mediumseagreen: #07d38e;
+  --color-whitesmoke: #ededed;
+  --color-dimgray: #595959;
+  --color-silver: #b9bebd;
+
+  /* Gaps */
+  --gap-13xl: 32px;
+  --gap-5xl: 24px;
+  --gap-45xl: 64px;
+  --gap-base: 16px;
+  --gap-5xs: 8px;
+
+  /* Paddings */
+  --padding-base: 16px;
+  --padding-29xl: 48px;
+  --padding-5xl: 24px;
+  --padding-13xl: 32px;
+
+  /* Border radiuses */
+  --br-base: 16px;
+  --br-13xl: 32px;
+  --br-37xl: 56px;
+  --br-45xl: 64px;
+  --br-15xl-7: 34.7px;
+  --br-17xl-6: 36.6px;
+  --br-5xl: 24px;
+}
