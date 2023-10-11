@@ -368,7 +368,7 @@ const CifrapayLandingPage: NextPage = memo(() => {
                   <b className={styles.comoFaoPara}>
                     Como faço para abrir uma conta no cifrapay
                   </b>
-                  <img className={styles.icon} alt="" src="/.svg" />
+                  <img className={styles.icon} alt="" src="/1.svg" />
                 </div>
                 <div className={styles.baixeNossoApp1}>
                   Baixe nosso app na playstore ou apple store, o processo e bem
@@ -380,7 +380,7 @@ const CifrapayLandingPage: NextPage = memo(() => {
                   <b className={styles.comoFaoPara}>
                     Tenho garantia de que meus dados estão seguros?
                   </b>
-                  <img className={styles.icon1} alt="" src="/1.svg" />
+                  <img className={styles.icon1} alt="" src="/11.svg" />
                 </div>
                 <div className={styles.applyingForA}>
                   {" "}
@@ -395,7 +395,7 @@ const CifrapayLandingPage: NextPage = memo(() => {
                   <b className={styles.comoFaoPara}>
                     Como o Cifrapay garante uma transação segura?
                   </b>
-                  <img className={styles.icon1} alt="" src="/1.svg" />
+                  <img className={styles.icon1} alt="" src="/11.svg" />
                 </div>
                 <div className={styles.applyingForA}>
                   Annual fees may apply to some credit cards, but not all. Our
@@ -408,7 +408,7 @@ const CifrapayLandingPage: NextPage = memo(() => {
                   <b className={styles.comoFaoPara}>
                     Como consigo mais limites na minha conta digital?
                   </b>
-                  <img className={styles.icon1} alt="" src="/1.svg" />
+                  <img className={styles.icon1} alt="" src="/11.svg" />
                 </div>
                 <div className={styles.applyingForA}>
                   {" "}
@@ -423,7 +423,7 @@ const CifrapayLandingPage: NextPage = memo(() => {
                   <b className={styles.comoFaoPara}>
                     Como posso me comunicar com o suporte do cifrapay?
                   </b>
-                  <img className={styles.icon1} alt="" src="/1.svg" />
+                  <img className={styles.icon1} alt="" src="/11.svg" />
                 </div>
                 <div className={styles.applyingForA}>
                   You can easily check your credit card balance and transactions
@@ -436,7 +436,7 @@ const CifrapayLandingPage: NextPage = memo(() => {
                   <b className={styles.comoFaoPara}>
                     Meu cartão e minhas senhas estão seguras?
                   </b>
-                  <img className={styles.icon1} alt="" src="/1.svg" />
+                  <img className={styles.icon1} alt="" src="/11.svg" />
                 </div>
                 <div className={styles.applyingForA}>
                   Yes, we prioritize the security of your information. Our
